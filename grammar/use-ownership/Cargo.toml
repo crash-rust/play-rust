@@ -1,4 +1,4 @@
 [package]
-name = "ownership"
+name = "use-ownership"
 version = "0.1.0"
 edition = "2021"
